@@ -21,3 +21,11 @@
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wilianne&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     </a>
 </div>
+
+### Contacts
+
+<div>
+    <a href="https://www.linkedin.com/in/wilianne-paix%C3%A3o-87a4b7191/">
+        <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' />
+    </a>
+</div>
